@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ecommerce-rbac-rest-impl:war">
+    <output-path>$PROJECT_DIR$/../ecommerce-rbac-rest-impl/target</output-path>
+    <root id="archive" name="ecommerce-rbac-impl.war">
+      <element id="artifact" artifact-name="ecommerce-rbac-rest-impl:war exploded" />
+    </root>
+  </artifact>
+</component>

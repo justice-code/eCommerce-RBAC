@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ecommerce-rbac-api/ecommerce-rbac-api.iml" filepath="$PROJECT_DIR$/../ecommerce-rbac-api/ecommerce-rbac-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ecommerce-rbac-dao/ecommerce-rbac-dao.iml" filepath="$PROJECT_DIR$/../ecommerce-rbac-dao/ecommerce-rbac-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ecommerce-rbac-entities/ecommerce-rbac-entities.iml" filepath="$PROJECT_DIR$/../ecommerce-rbac-entities/ecommerce-rbac-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerce-rbac-project.iml" filepath="$PROJECT_DIR$/ecommerce-rbac-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ecommerce-rbac-rest-impl/ecommerce-rbac-rest-impl.iml" filepath="$PROJECT_DIR$/../ecommerce-rbac-rest-impl/ecommerce-rbac-rest-impl.iml" />
+    </modules>
+  </component>
+</project>
